@@ -165,7 +165,7 @@ Predictive patterns + segmentation + decision rules designed for operations lead
 </td>
 <td width="25%" align="right" valign="middle">
 
-<a href="REPLACE_WITH_YOUR_REPO_LINK_1">
+<a href="https://github.com/omkarsinhrana7/HR-Attrition-and-Risk-Flags/blob/main/README.md">
   <img src="https://img.shields.io/badge/View%20Repository-111827?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="View Repository"/>
 </a>
 
