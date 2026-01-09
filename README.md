@@ -1,3 +1,158 @@
+<div align="center">
+
+  <!-- Sleek / professional header (no waving banner, no email line) -->
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1F2A,100:111827&height=150&section=header&text=Omkarsinh%20Rana&fontColor=F9FAFB&fontSize=54&fontAlignY=55&desc=SupplyChain%20Analytics%20%7C%20Operations%20Intelligence%20%7C%20Logistics%20Performance&descAlignY=82&descColor=F59E0B"
+    width="100%"
+    alt="Omkarsinh Rana Header"
+  />
+
+  <br/>
+
+
+
+
+
+
+---
+
+## About
+
+<div align="center">
+
+  <p>
+    I am a <b>results-driven Operations and Supply Chain Analyst</b> with hands-on experience in
+    <b>fleet management</b>, <b>logistics execution</b>, and <b>operations analytics</b>.
+  </p>
+
+  <p>
+    I have led frontline teams, managed high-volume fleet workflows, and built KPI reporting routines that make
+    <b>reliability</b>, <b>cost</b>, and <b>turnaround performance</b> visible and actionable.
+  </p>
+
+  <p>
+   
+  </p>
+
+</div>
+
+<div align="center">
+
+  <!-- OPERATIONS SIGNATURE PILLS -->
+  <img src="https://img.shields.io/badge/KPI%20Systems-111827?style=for-the-badge&logoColor=F59E0B" />
+  <img src="https://img.shields.io/badge/Process%20Improvement-111827?style=for-the-badge&logoColor=F59E0B" />
+  <img src="https://img.shields.io/badge/Fleet%20%26%20Logistics-111827?style=for-the-badge&logoColor=F59E0B" />
+  <img src="https://img.shields.io/badge/Root--Cause%20Analysis-111827?style=for-the-badge&logoColor=F59E0B" />
+
+</div>
+
+---
+
+## What I work on
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+<b>Operations analytics (execution-first)</b><br/>
+KPI definitions, reporting cadence, exception tracking, bottleneck diagnosis, and weekly operating routines that teams actually follow.
+
+</td>
+    <td width="50%" valign="top">
+
+<b>Supply chain and logistics performance</b><br/>
+Service level tracking, turnaround time, utilization, throughput signals, and cost-to-serve visibility for better decisions.
+
+</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+<b>Fleet operations and reliability</b><br/>
+Dispatch discipline, uptime, turnaround, safety-aware execution, partner/vendor coordination, and frontline coaching using scorecards.
+
+</td>
+    <td width="50%" valign="top">
+
+<b>Dashboards and decision support</b><br/>
+Excel/SQL/Python outputs converted into clean dashboards and one-page decision memos for leaders.
+
+</td>
+  </tr>
+</table>
+
+---
+
+## Proof of impact 
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+<b>High-volume fleet leadership</b><br/>
+Managed <b>250+ vehicle movements per week</b> with <b>20+ staff</b>, improving delivery reliability and operating discipline.
+
+</td>
+    <td width="50%" valign="top">
+
+<b>Cost + cycle time improvement</b><br/>
+Introduced SOPs + dashboards that reduced operating expenses by <b>$30K annually</b> and improved turnaround time by <b>1.5 hours per vehicle</b>.
+
+</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+<b>Large team execution</b><br/>
+Led a <b>45-person operations team</b> managing <b>300+ daily fleet movements</b>, supported by scheduling + performance tracking.
+
+</td>
+    <td width="50%" valign="top">
+
+<b>CRM / retention analytics</b><br/>
+Built cohort views and reporting discipline supporting <b>$120K repeat revenue</b>, <b>+25% satisfaction</b>, and removal of <b>200+ recurring data errors</b>.
+
+</td>
+  </tr>
+</table>
+
+---
+
+## Ask me about
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+
+<b>From chaos → KPI system</b><br/>
+How I turn messy operations into clear metrics, thresholds, and weekly tracking routines.
+
+</td>
+    <td width="33%" valign="top">
+
+<b>Dashboards leaders trust</b><br/>
+Metric definitions, data controls, and reporting logic that prevents “numbers debates.”
+
+</td>
+    <td width="33%" valign="top">
+
+<b>Execution enablement</b><br/>
+How I translate findings into SOP updates, ownership, and measurable next steps.
+
+</td>
+  </tr>
+</table>
+
+---
+
+
+
+
+
+---
+
+
+
 ## Portfolio
 
 <table>
